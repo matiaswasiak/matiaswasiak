@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Wasiak</h1>
 <h3 align="center">I’m a Full-Stack Developer</h3>
 
- 💫 About Me :
+# 💫 About Me :
 🌱 I’m currently learning Full Stack Web Developer skills
 
 🔭 Every day in search of improvement and constant growth
