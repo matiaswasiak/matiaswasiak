@@ -24,7 +24,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matiaswasiak&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://komarev.com/ghpvc/?matiaswasiak&color=fb2054&style=for-the-badge)
+---
+![](https://komarev.com/ghpvc/?username=matiaswasiak)
 
 <!--
 **matiaswasiak/matiaswasiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
