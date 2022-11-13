@@ -6,8 +6,6 @@
 
 🔭 Every day in search of improvement and constant growth
 
-🔎 I’m looking for a job where I can develop soft and hard skills.
-
 💖 Loving the fact that you can show beautiful things on a website
 
 ## 🌐 Connect with me:
