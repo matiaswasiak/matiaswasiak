@@ -69,7 +69,7 @@ Multi-agent orchestration · Prompt engineering · Structured context design
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaswasiak&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaswasiak&theme=default&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaswasiak&theme=default&hide_border=true&layout=compact&langs_count=8)
 
 </div>
