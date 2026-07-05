@@ -65,6 +65,12 @@ Multi-agent orchestration · Prompt engineering · Structured context design
 
 ---
 
+### Featured
+
+🔧 **[agentic-dev-workflow](https://github.com/matiaswasiak/agentic-dev-workflow)** — a template for directing AI coding agents with structured context design, model-allocation strategy, and evidence-based quality gates.
+
+---
+
 ### Let's connect
 
 Open to full-stack and AI-assisted engineering roles, and to interesting collaborations.
